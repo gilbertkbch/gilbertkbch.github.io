@@ -87520,7 +87520,8 @@ A.t9.prototype={
 S(a){return A.vx(A.t4(B.a10),null,new A.cF(B.h_,A.kW(A.a([B.a12,B.cg,A.jV(B.a0P,new A.a0X(this,a))],t.D),B.be,B.dF,B.bG),null))}}
 A.a0X.prototype={
 $0(){var s=this.a
-if(s.d!==$.Av[2])A.aEc(new A.a0W(s),this.b,t.z)},
+if(s.d!==$.Av[2])A.aEc(new A.a0W(s),this.b,t.z)
+else s.c.$0()},
 $S:0}
 A.a0W.prototype={
 $1(a){return A.awU(A.a([A.Qh(B.m7,new A.a0V(this.a,a),null)],t.D),B.a1c,B.a0K)},
@@ -87633,7 +87634,7 @@ ade(a){var s
 if($.av6){s=A.k7(new A.am6(),null,t.z)
 A.dq(a,!1).hN(s)}else this.Qn(a)},
 S(a){var s=this,r=null
-return A.vx(A.t4(A.bV("GoldBuyBack App\nDev Build v0.1.11-ngrok",r,r,r,r,r,r,r)),r,A.iS(A.kW(A.a([A.Qh(B.a0W,new A.amd(s,a),A.aut(r,r,B.G,r,r,r,r,r,r,r,r,r,r,r,B.ib,B.Cp,r,r,r,r)),A.jV(B.a0Q,new A.ame(s,a)),A.jV(B.Ba,new A.amf(a)),new A.cF(B.h_,A.auu(s.d,A.ayY(r,new A.im(4,B.ef,B.n1),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Enter API URL",r,r,r,r,r,r,r,r,r,r,r,r,r),r,r),r),A.jV(B.m7,s.gail())],t.D),B.be,B.dF,B.bG),r,r))}}
+return A.vx(A.t4(A.bV("GoldBuyBack App\nDev Build v0.1.12-ngrok",r,r,r,r,r,r,r)),r,A.iS(A.kW(A.a([A.Qh(B.a0W,new A.amd(s,a),A.aut(r,r,B.G,r,r,r,r,r,r,r,r,r,r,r,B.ib,B.Cp,r,r,r,r)),A.jV(B.a0Q,new A.ame(s,a)),A.jV(B.Ba,new A.amf(a)),new A.cF(B.h_,A.auu(s.d,A.ayY(r,new A.im(4,B.ef,B.n1),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Enter API URL",r,r,r,r,r,r,r,r,r,r,r,r,r),r,r),r),A.jV(B.m7,s.gail())],t.D),B.be,B.dF,B.bG),r,r))}}
 A.amb.prototype={
 $0(){var s=null,r=this.a
 $.avl=r.d.a.a
