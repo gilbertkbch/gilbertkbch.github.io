@@ -83846,15 +83846,15 @@ A.XW.prototype={
 $0(){A.axa(new A.XV(this.a),this.b,t.z)},
 $S:0}
 A.XV.prototype={
-$1(a){return A.aqw(A.b([A.MB(B.z_,new A.XU(this.a,a),null)],t.p),B.To,B.SV)},
+$1(a){return A.aqw(A.b([A.MB(B.z_,new A.XU(this.a,a),null)],t.p),B.Tp,B.SV)},
 $S:178}
 A.XU.prototype={
 $0(){A.d4(this.b,!1).dJ()
 this.a.c.$0()},
 $S:0}
 A.qp.prototype={
-L(a){var s=null,r=A.qg(B.Tn),q=A.qm(5),p=B.c.aE(76.5),o=t.E
-return A.tb(r,s,A.aF4(A.jV(A.b([B.Tm,B.kT,B.T2,B.T3,B.eN,A.dM(s,s,B.t,s,s,new A.dc(B.k,s,s,q,A.b([new A.b5(0,B.A,A.Y(p,0,0,0),new A.i(0,1),5)],o),s,B.ay),100,s,s,s),B.dq,B.SU,B.T8,B.Ta,B.eN,A.dM(s,s,B.t,s,s,new A.dc(B.k,s,s,A.qm(5),A.b([new A.b5(0,B.A,A.Y(p,0,0,0),new A.i(0,1),5)],o),s,B.ay),100,s,s,s),B.dq,B.Td,B.eN,A.dM(s,s,B.t,s,s,new A.dc(B.k,s,s,A.qm(5),A.b([new A.b5(0,B.A,A.Y(p,0,0,0),new A.i(0,1),5)],o),s,B.ay),100,s,s,s),B.dq,B.Tb,B.dq,B.Th,B.eN,A.dM(s,s,B.t,s,s,new A.dc(B.k,s,s,A.qm(5),A.b([new A.b5(0,B.A,A.Y(p,0,0,0),new A.i(0,1),5)],o),s,B.ay),100,s,s,s),B.dq,B.T1,B.Tk,B.Tf,B.eN,A.dM(s,s,B.t,s,s,new A.dc(B.k,s,s,A.qm(5),A.b([new A.b5(0,B.A,A.Y(p,0,0,0),new A.i(0,1),5)],o),s,B.ay),100,s,s,s),B.kT,B.SZ,B.kT,A.i0(A.k0(B.Tl,this.d),s,s),B.dq,A.i0(A.k0(B.Tj,this.c),s,s)],t.p),B.iY,B.bD,B.bq),B.jg))}}
+L(a){var s=null,r=A.qg(B.To),q=A.qm(5),p=B.c.aE(76.5),o=t.E
+return A.tb(r,s,A.aF4(A.jV(A.b([B.Tn,B.kT,B.T2,B.T3,B.eN,A.dM(s,s,B.t,s,s,new A.dc(B.k,s,s,q,A.b([new A.b5(0,B.A,A.Y(p,0,0,0),new A.i(0,1),5)],o),s,B.ay),100,s,s,s),B.dq,B.SU,B.T8,B.Ta,B.eN,A.dM(s,s,B.t,s,s,new A.dc(B.k,s,s,A.qm(5),A.b([new A.b5(0,B.A,A.Y(p,0,0,0),new A.i(0,1),5)],o),s,B.ay),100,s,s,s),B.dq,B.Td,B.eN,A.dM(s,s,B.t,s,s,new A.dc(B.k,s,s,A.qm(5),A.b([new A.b5(0,B.A,A.Y(p,0,0,0),new A.i(0,1),5)],o),s,B.ay),100,s,s,s),B.dq,B.Tb,B.dq,B.Th,B.eN,A.dM(s,s,B.t,s,s,new A.dc(B.k,s,s,A.qm(5),A.b([new A.b5(0,B.A,A.Y(p,0,0,0),new A.i(0,1),5)],o),s,B.ay),100,s,s,s),B.dq,B.T1,B.Tl,B.Tf,B.eN,A.dM(s,s,B.t,s,s,new A.dc(B.k,s,s,A.qm(5),A.b([new A.b5(0,B.A,A.Y(p,0,0,0),new A.i(0,1),5)],o),s,B.ay),100,s,s,s),B.kT,B.SZ,B.kT,A.i0(A.k0(B.Tm,this.d),s,s),B.dq,A.i0(A.k0(B.Tk,this.c),s,s)],t.p),B.iY,B.bD,B.bq),B.jg))}}
 A.ix.prototype={}
 A.x4.prototype={
 ai(){return new A.Py(B.b.gM($.azm()),B.j)},
@@ -83953,7 +83953,7 @@ a7M(a){var s
 if($.aoT){s=A.j9(new A.a4p(),null,t.z)
 A.d4(a,!1).fB(s)}else this.MP(a)},
 L(a){var s=null
-return A.tb(A.qg(B.Tp),s,A.i0(A.jV(A.b([A.MB(B.T6,new A.a4v(this,a),A.aoi(s,s,B.C,s,s,s,s,s,s,s,s,s,s,s,B.ht,B.zY,s,s,s,s)),A.k0(B.T0,new A.a4w(this,a)),A.k0(B.z0,new A.a4x(a))],t.p),B.b3,B.d5,B.bq),s,s))}}
+return A.tb(A.qg(B.Tj),s,A.i0(A.jV(A.b([A.MB(B.T6,new A.a4v(this,a),A.aoi(s,s,B.C,s,s,s,s,s,s,s,s,s,s,s,B.ht,B.zY,s,s,s,s)),A.k0(B.T0,new A.a4w(this,a)),A.k0(B.z0,new A.a4x(a))],t.p),B.b3,B.d5,B.bq),s,s))}}
 A.a4t.prototype={
 $1(a){return new A.qp(new A.a4r(a),new A.a4s(a),null)},
 $S:496}
@@ -89946,14 +89946,14 @@ B.Tf=new A.bw("- Doesn't work? Report to Office! \ud83d\udea8",null,B.eR,null,nu
 B.Th=new A.bw("5. Pour Alcohol until liquid level reaches the Mark \ud83d\udca7",null,B.cN,null,null,null,null,null,null)
 B.z0=new A.bw("Estimate Discount",null,null,null,null,null,null,null,null)
 B.Ti=new A.bw("Result",null,null,null,null,null,null,null,null)
-B.Tj=new A.bw("Return to Home",null,null,null,null,null,null,null,null)
-B.Tk=new A.bw("- The reading is not stable? Re-zero again! \ud83d\udd01",null,B.eR,null,null,null,null,null,null)
-B.Tl=new A.bw("Go To Calibration",null,null,null,null,null,null,null,null)
+B.Tj=new A.bw("GoldBuyBack App - Dev Build v0.1.2-ngrok",null,null,null,null,null,null,null,null)
+B.Tk=new A.bw("Return to Home",null,null,null,null,null,null,null,null)
+B.Tl=new A.bw("- The reading is not stable? Re-zero again! \ud83d\udd01",null,B.eR,null,null,null,null,null,null)
+B.Tm=new A.bw("Go To Calibration",null,null,null,null,null,null,null,null)
 B.QE=new A.l(!0,null,null,null,null,null,18,B.b5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Tm=new A.bw("Welcome to Calibration Checklist \ud83d\udccb\nFollow the steps below to Calibrate your Balance",null,B.QE,null,null,null,null,null,null)
-B.Tn=new A.bw("Calibration Checklist",null,null,null,null,null,null,null,null)
-B.To=new A.bw("1. \u96fb\u9444\u516c\u4ed4\u53ef\u56e0\u61c9\u6c34\u7bb1\u5927\u5c0f\u526a\u4e0b\u4e00\u622a\u8f03\u70ba\u5e73\u6574\u7684\u90e8\u4efd, \u53ea\u9700\u6e2c\u91cf\u5df2\u526a\u4e0b\u7684\u90e8\u4efd\u3002\u5982\u8a72\u64fa\u4ef6\u9ad4\u7a4d\u8f03\u5c0f, \u4f60\u4ea6\u53ef\u4ee5\u5f9e\u51fa\u6c34\u53e3\u4e2d\u526a\u958b\u7136\u5f8c\u6e2c\u91cf\n\n2. \u958b\u53e3\u6212\u6307\u9700\u6253\u958b\u958b\u53e3\n\n3. \u5404\u985e\u6263\u5236\u624b\u922a\u9700\u6253\u958b\u6263\u5236\u3002\u82e5\u9f8d\u9cf3\u922a\u9ad4\u7a4d\u8f03, \u53ef\u4ee5\u628a\u5b83\u647a\u4e00\u4e0b, \u4f46\u4e0d\u53ef\u4ee5\u628a\u5b83\u6372\u6210\u4e00\u6372",null,null,null,null,null,null,null,null)
-B.Tp=new A.bw("GoldBuyBack App - Dev Build",null,null,null,null,null,null,null,null)
+B.Tn=new A.bw("Welcome to Calibration Checklist \ud83d\udccb\nFollow the steps below to Calibrate your Balance",null,B.QE,null,null,null,null,null,null)
+B.To=new A.bw("Calibration Checklist",null,null,null,null,null,null,null,null)
+B.Tp=new A.bw("1. \u96fb\u9444\u516c\u4ed4\u53ef\u56e0\u61c9\u6c34\u7bb1\u5927\u5c0f\u526a\u4e0b\u4e00\u622a\u8f03\u70ba\u5e73\u6574\u7684\u90e8\u4efd, \u53ea\u9700\u6e2c\u91cf\u5df2\u526a\u4e0b\u7684\u90e8\u4efd\u3002\u5982\u8a72\u64fa\u4ef6\u9ad4\u7a4d\u8f03\u5c0f, \u4f60\u4ea6\u53ef\u4ee5\u5f9e\u51fa\u6c34\u53e3\u4e2d\u526a\u958b\u7136\u5f8c\u6e2c\u91cf\n\n2. \u958b\u53e3\u6212\u6307\u9700\u6253\u958b\u958b\u53e3\n\n3. \u5404\u985e\u6263\u5236\u624b\u922a\u9700\u6253\u958b\u6263\u5236\u3002\u82e5\u9f8d\u9cf3\u922a\u9ad4\u7a4d\u8f03, \u53ef\u4ee5\u628a\u5b83\u647a\u4e00\u4e0b, \u4f46\u4e0d\u53ef\u4ee5\u628a\u5b83\u6372\u6210\u4e00\u6372",null,null,null,null,null,null,null,null)
 B.WO=new A.abH(0,"system")
 B.Ke=new A.i(0.05,0)
 B.Kf=new A.i(0.133333,0.06)
